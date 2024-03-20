@@ -1,0 +1,15 @@
+/Applications/Dot Net/lab3 qno1/lab3 qno1/bin/Debug/net7.0/lab3 qno1
+/Applications/Dot Net/lab3 qno1/lab3 qno1/bin/Debug/net7.0/lab3 qno1.deps.json
+/Applications/Dot Net/lab3 qno1/lab3 qno1/bin/Debug/net7.0/lab3 qno1.runtimeconfig.json
+/Applications/Dot Net/lab3 qno1/lab3 qno1/bin/Debug/net7.0/lab3 qno1.dll
+/Applications/Dot Net/lab3 qno1/lab3 qno1/bin/Debug/net7.0/lab3 qno1.pdb
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.csproj.AssemblyReference.cache
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.AssemblyInfoInputs.cache
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.AssemblyInfo.cs
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.csproj.CoreCompileInputs.cache
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.dll
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/refint/lab3 qno1.dll
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.pdb
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/lab3 qno1.genruntimeconfig.cache
+/Applications/Dot Net/lab3 qno1/lab3 qno1/obj/Debug/net7.0/ref/lab3 qno1.dll

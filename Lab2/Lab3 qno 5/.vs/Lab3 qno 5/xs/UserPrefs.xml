@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1DE4853D-D082-4DB0-92DB-8360E6DD039E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab3_220qno_2205 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lab 3 qno4/Lab 3 qno4/Program.cs">
+    <Files>
+      <File FileName="Lab3 qno 5/Program.cs" Line="22" Column="41" />
+      <File FileName="../Lab 3 qno4/Lab 3 qno4/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3 qno 5" expanded="True">
+            <Node name="Lab3 qno 5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

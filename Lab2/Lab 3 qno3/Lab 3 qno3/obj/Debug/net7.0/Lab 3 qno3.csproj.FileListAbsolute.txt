@@ -1,0 +1,15 @@
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/bin/Debug/net7.0/Lab 3 qno3
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/bin/Debug/net7.0/Lab 3 qno3.deps.json
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/bin/Debug/net7.0/Lab 3 qno3.runtimeconfig.json
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/bin/Debug/net7.0/Lab 3 qno3.dll
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/bin/Debug/net7.0/Lab 3 qno3.pdb
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.csproj.AssemblyReference.cache
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.AssemblyInfoInputs.cache
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.AssemblyInfo.cs
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.csproj.CoreCompileInputs.cache
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.dll
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/refint/Lab 3 qno3.dll
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.pdb
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/Lab 3 qno3.genruntimeconfig.cache
+/Users/alishtuladhar/Projects/Lab 3 qno3/Lab 3 qno3/obj/Debug/net7.0/ref/Lab 3 qno3.dll
